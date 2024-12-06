@@ -116,7 +116,3 @@ Troubleshooting
     Error: Missing 02_count_hist_output directory: Ensure you have write permissions in the working directory.
     Empty Output Files: Verify the input .tif files contain valid image data.
     Incorrect ROIs: Check the binarization and region detection parameters in get_rois_histogram.
-
-License
-
-CC-BY 4.0
