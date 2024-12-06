@@ -10,7 +10,12 @@ This MATLAB script processes .tif image files in a specified directory to extrac
 
 Prerequisites
 
-    To run code: MATLAB installed on your system.
+    To run code: MATLAB installed on your system. 
+		-guide: https://www.mathworks.com/help/install/install-products.html
+		-installation time: 30 minutes to a couple of hours
+	To run .exe: MATLAB Runtime installed on your system.
+		-guide: https://www.mathworks.com/help/compiler/install-the-matlab-runtime.html
+		-installation time: few minutes to around 15 minutes
     Toolboxes:
 		-Image Processing Toolbox: (imfinfo, imread, imbinarize, imfill, regionprops, histcounts)
 		-Statistics and Machine Learning Toolbox: (readtable, movmean).
@@ -18,7 +23,9 @@ Prerequisites
 
     A folder containing .tif files (./01_max_intensity_input).
 
+Testing
 
+	Code was tested on MATLAB Version: 9.13.0.2126072 (R2022b) Update 3
 
 Directory Structure
 
