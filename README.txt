@@ -11,8 +11,14 @@ This MATLAB script processes .tif image files in a specified directory to extrac
 Prerequisites
 
     To run code: MATLAB installed on your system.
-    The Image Processing Toolbox enabled.
+    Toolboxes:
+		-Image Processing Toolbox: (imfinfo, imread, imbinarize, imfill, regionprops, histcounts)
+		-Statistics and Machine Learning Toolbox: (readtable, movmean).
+		-MATLAB Graphics (plot, xlabel, ylabel, xline).
+
     A folder containing .tif files (./01_max_intensity_input).
+
+
 
 Directory Structure
 
