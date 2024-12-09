@@ -13,7 +13,7 @@ Prerequisites
     To run code: MATLAB installed on your system. 
 		-guide: https://www.mathworks.com/help/install/install-products.html
 		-installation time: 30 minutes to a couple of hours
-	To run .exe: MATLAB Runtime installed on your system.
+    To run .exe: MATLAB Runtime installed on your system.
 		-guide: https://www.mathworks.com/help/compiler/install-the-matlab-runtime.html
 		-installation time: few minutes to around 15 minutes
     Toolboxes:
